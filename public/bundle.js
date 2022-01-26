@@ -2,7 +2,7 @@
 
 //var, const & let
 // var permite que as informações contidas no seu scopo sejam acessadas de forma publica, diferente de const e let, que não permitam esse comportamenteo normalmente.
-//const é uma variável feita somente para leitura;
+//const ou constante é uma variável feita somente para leitura;
 //use Let somente quando vc quiser realmente reatribuir o valor da variavel;
 {
   var car = "uno";
